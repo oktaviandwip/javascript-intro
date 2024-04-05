@@ -234,7 +234,7 @@ Javascript Belajar Saya
 11. Fazzfood
 </h2>
 
-<p align="center"><img src="assets/fazzfood.png" width=80% alt="fazzfood" /></p>
+<p align="center"><img src="./advanced-function/assets/fazzfood.png" width=60% alt="fazzfood" /></p>
 
 ```bash
 # Call the function
@@ -254,7 +254,7 @@ Sub-Total: 105000
 12. Divide and Sort
 </h2>
 
-<p align="center"><img src="assets/divide-and-sort.png" width=60% alt="Divide and sort" /></p>
+<p align="center"><img src="./advanced-function/assets/divide-and-sort.png" width=60% alt="Divide and sort" /></p>
 
 ```bash
 # Call the function
